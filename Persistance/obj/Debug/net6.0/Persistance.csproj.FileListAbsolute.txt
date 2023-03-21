@@ -1,0 +1,17 @@
+D:\c#\test\Persistance\bin\Debug\net6.0\Persistance.deps.json
+D:\c#\test\Persistance\bin\Debug\net6.0\Persistance.dll
+D:\c#\test\Persistance\bin\Debug\net6.0\Persistance.pdb
+D:\c#\test\Persistance\bin\Debug\net6.0\Domain.dll
+D:\c#\test\Persistance\bin\Debug\net6.0\Domain.pdb
+D:\c#\test\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+D:\c#\test\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\test\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+D:\c#\test\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+D:\c#\test\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+D:\c#\test\Persistance\obj\Debug\net6.0\Persistance.csproj.CopyComplete
+D:\c#\test\Persistance\obj\Debug\net6.0\Persistance.dll
+D:\c#\test\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+D:\c#\test\Persistance\obj\Debug\net6.0\Persistance.pdb
+D:\c#\test\Persistance\obj\Debug\net6.0\ref\Persistance.dll
+D:\c#\test\Persistance\bin\Debug\net6.0\Persistance.runtimeconfig.json
+D:\c#\test\Persistance\obj\Debug\net6.0\Persistance.genruntimeconfig.cache
